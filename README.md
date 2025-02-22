@@ -24,7 +24,7 @@ The goal of this case study is to evaluate customer demographics, competitor pos
 ### **4. Strategic Recommendations**  
 📌 **Store Expansion:** Increase presence in high-demand areas like **East & North-East** and optimize store density in **Central & West**.  
 📌 **Localized Promotions:** Implement senior-friendly discounts and loyalty programs tailored to customer demographics.  
-📌 **E-Commerce & Delivery:** Expand digital sales and delivery options to increase accessibility and market penetration. 
+📌 **E-Commerce & Delivery:** Expand digital sales and delivery options to increase accessibility and market penetration.
 📌 **Capturing the None:** Capturing the unclaimed market which is predominantly occupied by senior citizens by promoting discounts and memberships for the Senior Citizens.
 
 
